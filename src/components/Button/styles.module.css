@@ -1,0 +1,17 @@
+.button {
+  background-color: var(--orange-900);
+  color: var(--white);
+  border: 0;
+  padding: 0.4rem;
+  border-radius: 0.5rem;
+  max-width: 600px;
+
+}
+
+.button:hover{
+  background-color: var(--orange-700);
+}
+
+.buttonText {
+  color: var(--white);
+}

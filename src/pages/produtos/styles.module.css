@@ -1,0 +1,9 @@
+.containerProducts {
+  margin-left: 16rem;
+  margin-top: 1rem;
+}
+
+.productList {
+  display: flex;
+  flex-wrap: wrap;
+}

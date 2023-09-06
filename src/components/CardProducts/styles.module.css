@@ -1,0 +1,26 @@
+.productCard {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 12rem;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 5px;
+  padding: 10px;
+  box-shadow: 2px 2px 5px 0px rgba(0, 64, 128, 0.1);
+}
+
+.title {
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+
+.preco {
+  color: var(--orange-800);
+  margin-top: 1rem;
+}

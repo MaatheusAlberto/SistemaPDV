@@ -1,0 +1,52 @@
+
+.botaoCarrinho {
+  margin-bottom: 10px;
+}
+
+.titleName {
+  margin-bottom: 15px;
+}
+
+.modal {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+}
+
+.disableScroll {
+  overflow: hidden;
+}
+
+.cartItem {
+  display: flex;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.imgCart {
+  width: 80px;
+  height: 80px;
+  object-fit: cover; 
+  margin-right: 10px;
+}
+
+.cartTitle {
+  font-size: 16px;
+  margin: 0;
+}
+
+.cartPreco {
+  font-size: 14px;
+  margin: 0;
+}
+
+.contentProduct {
+  width: 70%
+}
+
+.buttonGroup {
+  margin: 0 0 0 30%;
+  display: flex;
+}

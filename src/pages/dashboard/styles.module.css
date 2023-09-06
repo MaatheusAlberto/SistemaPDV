@@ -1,0 +1,13 @@
+.containerDashboard {
+  margin-left: 16rem;
+  margin-top: 1rem;
+}
+
+.sectionPainel {
+  display: flex;
+  margin-top: 3rem;
+}
+
+.pedidos {
+  margin-top: 3rem;
+}
